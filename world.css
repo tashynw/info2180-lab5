@@ -16,7 +16,7 @@ main, header{
     height: 40px;
     border: 1px solid aquamarine;
 }
-#lookup{
+#lookup, #lookup-cities{
     width: 100px;
     height: 40px;
     border: none;
